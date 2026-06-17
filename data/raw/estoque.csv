@@ -1,0 +1,61 @@
+﻿id_material,material,categoria_material,estoque_minimo,estoque_atual,unidade_medida
+M0001,Material Sintetico 0001,Correias,137,242,M
+M0002,Material Sintetico 0002,Correntes,55,78,L
+M0003,Material Sintetico 0003,Peças industriais,87,161,L
+M0004,Material Sintetico 0004,Lubrificantes,122,285,KG
+M0005,Material Sintetico 0005,Embalagens,55,75,UN
+M0006,Material Sintetico 0006,Ferramentas,32,43,KG
+M0007,Material Sintetico 0007,Peças industriais,60,142,L
+M0008,Material Sintetico 0008,Peças industriais,36,69,CX
+M0009,Material Sintetico 0009,EPIs,139,172,L
+M0010,Material Sintetico 0010,Ferramentas,22,39,L
+M0011,Material Sintetico 0011,Lubrificantes,88,109,UN
+M0012,Material Sintetico 0012,Peças industriais,95,118,KG
+M0013,Material Sintetico 0013,Elétricos,136,222,M
+M0014,Material Sintetico 0014,Correias,148,66,L
+M0015,Material Sintetico 0015,EPIs,47,25,L
+M0016,Material Sintetico 0016,Correias,70,83,M
+M0017,Material Sintetico 0017,Elétricos,61,57,L
+M0018,Material Sintetico 0018,Embalagens,102,170,UN
+M0019,Material Sintetico 0019,Lubrificantes,48,48,M
+M0020,Material Sintetico 0020,Elétricos,81,58,KG
+M0021,Material Sintetico 0021,Ferramentas,40,92,CX
+M0022,Material Sintetico 0022,Correias,37,50,KG
+M0023,Material Sintetico 0023,Correias,141,216,M
+M0024,Material Sintetico 0024,Correntes,128,91,L
+M0025,Material Sintetico 0025,EPIs,71,85,CX
+M0026,Material Sintetico 0026,Embalagens,115,179,L
+M0027,Material Sintetico 0027,Ferramentas,135,117,KG
+M0028,Material Sintetico 0028,Ferramentas,77,131,M
+M0029,Material Sintetico 0029,Correntes,25,29,L
+M0030,Material Sintetico 0030,Elétricos,76,101,UN
+M0031,Material Sintetico 0031,Correntes,35,40,UN
+M0032,Material Sintetico 0032,Lubrificantes,28,70,UN
+M0033,Material Sintetico 0033,EPIs,80,119,CX
+M0034,Material Sintetico 0034,Correias,74,67,L
+M0035,Material Sintetico 0035,Correntes,141,275,CX
+M0036,Material Sintetico 0036,Correntes,124,102,UN
+M0037,Material Sintetico 0037,Peças industriais,44,71,M
+M0038,Material Sintetico 0038,Peças industriais,128,54,CX
+M0039,Material Sintetico 0039,Ferramentas,33,25,UN
+M0040,Material Sintetico 0040,Lubrificantes,123,197,UN
+M0041,Material Sintetico 0041,Correntes,83,158,KG
+M0042,Material Sintetico 0042,Correias,134,213,CX
+M0043,Material Sintetico 0043,EPIs,66,94,CX
+M0044,Material Sintetico 0044,Ferramentas,83,110,CX
+M0045,Material Sintetico 0045,Elétricos,45,30,L
+M0046,Material Sintetico 0046,Ferramentas,23,25,KG
+M0047,Material Sintetico 0047,Peças industriais,62,77,CX
+M0048,Material Sintetico 0048,Correntes,143,297,CX
+M0049,Material Sintetico 0049,Correias,35,59,CX
+M0050,Material Sintetico 0050,Peças industriais,20,10,M
+M0051,Material Sintetico 0051,EPIs,136,228,CX
+M0052,Material Sintetico 0052,Correias,144,185,KG
+M0053,Material Sintetico 0053,Correntes,95,107,UN
+M0054,Material Sintetico 0054,Lubrificantes,35,64,UN
+M0055,Material Sintetico 0055,Embalagens,32,66,L
+M0056,Material Sintetico 0056,Elétricos,60,120,L
+M0057,Material Sintetico 0057,Correias,40,41,UN
+M0058,Material Sintetico 0058,Correntes,37,49,CX
+M0059,Material Sintetico 0059,Correntes,50,84,L
+M0060,Material Sintetico 0060,Ferramentas,30,61,CX

@@ -1,0 +1,46 @@
+﻿id_avaria,id_pedido,data_registro,quantidade_avariada,tipo_avaria,responsavel_tratativa
+A00002,PC00002,2025-12-10,17,Oxidação,Qualidade
+A00009,PC00009,2025-06-04,28,Material quebrado,Qualidade
+A00015,PC00015,2025-11-17,12,Divergência visual,Suprimentos
+A00020,PC00020,2025-03-05,16,Divergência visual,Suprimentos
+A00026,PC00026,2025-09-05,2,Divergência visual,Qualidade
+A00037,PC00037,2025-08-05,55,Acondicionamento inadequado,Suprimentos
+A00038,PC00038,2025-03-04,16,Embalagem danificada,Operação
+A00050,PC00050,2025-09-29,2,Material quebrado,Suprimentos
+A00053,PC00053,2025-04-30,16,Oxidação,Suprimentos
+A00057,PC00057,2025-02-21,18,Acondicionamento inadequado,Suprimentos
+A00060,PC00060,2025-06-26,11,Oxidação,Logística
+A00061,PC00061,2025-08-04,40,Divergência visual,Operação
+A00062,PC00062,2025-05-12,6,Oxidação,Suprimentos
+A00074,PC00074,2025-12-01,19,Oxidação,Logística
+A00078,PC00078,2025-08-31,37,Oxidação,Logística
+A00081,PC00081,2025-04-10,9,Embalagem danificada,Logística
+A00087,PC00087,2025-06-18,35,Material quebrado,Operação
+A00089,PC00089,2025-07-08,2,Embalagem danificada,Operação
+A00090,PC00090,2025-03-29,16,Material quebrado,Qualidade
+A00093,PC00093,2025-11-14,16,Divergência visual,Logística
+A00095,PC00095,2025-02-10,11,Acondicionamento inadequado,Qualidade
+A00100,PC00100,2025-03-20,6,Embalagem danificada,Operação
+A00105,PC00105,2025-04-30,25,Divergência visual,Operação
+A00106,PC00106,2025-08-22,3,Oxidação,Operação
+A00108,PC00108,2025-11-20,31,Material quebrado,Qualidade
+A00112,PC00112,2025-07-02,4,Divergência visual,Operação
+A00136,PC00136,2025-02-20,5,Divergência visual,Operação
+A00138,PC00138,2025-06-01,18,Embalagem danificada,Qualidade
+A00140,PC00140,2025-10-13,24,Oxidação,Suprimentos
+A00141,PC00141,2025-03-09,18,Oxidação,Qualidade
+A00146,PC00146,2025-10-01,18,Oxidação,Logística
+A00148,PC00148,2025-07-31,24,Acondicionamento inadequado,Qualidade
+A00151,PC00151,2025-11-04,8,Acondicionamento inadequado,Operação
+A00156,PC00156,2025-07-18,13,Divergência visual,Operação
+A00160,PC00160,2025-05-24,10,Acondicionamento inadequado,Qualidade
+A00161,PC00161,2025-12-05,37,Oxidação,Qualidade
+A00164,PC00164,2025-03-30,17,Acondicionamento inadequado,Suprimentos
+A00169,PC00169,2025-04-02,19,Acondicionamento inadequado,Qualidade
+A00176,PC00176,2025-11-08,3,Acondicionamento inadequado,Suprimentos
+A00185,PC00185,2025-05-11,4,Divergência visual,Operação
+A00204,PC00204,2025-09-11,8,Material quebrado,Operação
+A00221,PC00221,2025-04-25,10,Material quebrado,Qualidade
+A00225,PC00225,2025-11-29,11,Divergência visual,Suprimentos
+A00226,PC00226,2025-10-26,26,Material quebrado,Suprimentos
+A00231,PC00231,2025-02-21,5,Acondicionamento inadequado,Suprimentos
