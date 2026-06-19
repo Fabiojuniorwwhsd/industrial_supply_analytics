@@ -24,4 +24,3 @@ Use `data/processed/base_analitica_supply.csv` como base para Power BI ou Looker
 - Categorias com mais divergências
 - Categorias com mais avarias
 
-Depois de criar o dashboard, salve prints em `dashboard/prints_dashboard/`.
